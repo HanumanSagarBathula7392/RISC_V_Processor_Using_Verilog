@@ -1,0 +1,24 @@
+This is a dummy instruction file which explains the instruction operation for all the instructions used in this RISC V Processor  
+no address
+32'h00208033 //ADD Rd,Rs1,Rs2
+32'h003110B3 //SUB Rd,Rs1,Rs2
+32'h0041A133 //MUL Rd,Rs1,Rs2
+32'h00AA0993 //ADDI Rd,Rs1,#10
+32'hFFBA8A13 //ADDI Rd,Rs1,#-5
+32'h017B1A93 //SLTI Rd,Rs1,#23
+32'h025201B3 //SLL Rd,Rs1,Rs2
+32'h02629233 //SRL Rd,Rs1,Rs2
+32'h0283B333 //SRA Rd,Rs1,Rs2
+32'h001BAB13 //ANDI Rd,Rs1,#23
+32'h002C5B93 //SLLI Rd,Rs1,#23
+32'h001CFC13 //SRAI Rd,Rs1,#23
+32'h049403B3 //SLT Rd,Rs1,Rs2
+32'h04A49433 //SGT Rd,Rs1,Rs2
+32'h06B504B3 //XOR Rd,Rs1,Rs2
+32'h06C59533 //AND Rd,Rs1,Rs2
+32'h06D625B3 //OR Rd,Rs1,Rs2
+32'h06E6B633 //NAND Rd,Rs1,Rs2
+32'h06F746B3 //NOR Rd,Rs1,Rs2
+32'h027322B3 //SLA Rd,Rs1,Rs2
+32'hFFFD4C93 //XORI Rd,Rs1,Rs2
+32'h01088933 //ADD Rd,Rs1,Rs2 (All register addresses are changed)
