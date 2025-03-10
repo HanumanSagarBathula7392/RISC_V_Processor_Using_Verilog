@@ -111,4 +111,9 @@ This project is open-source and available under the [MIT License](https://github
 **Developed by:** Hanuman Sagar Bathula. <br>
 **Tech Used:** Verilog, Xilinx Vivado/ModelSim, FPGA, RISC-V ISA, Pipeline, Datapath, Instruction Memory, Data Memory.
 
+## Contact
+
+For any inquiries or discussions, feel free to reach out via [GitHub Issues](https://github.com/HanumanSagarBathula7392/Rubiks_Cube_Architecture/issues).
+
+
 
